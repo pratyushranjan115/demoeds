@@ -1,0 +1,97 @@
+[
+  {
+    "id": "main",
+    "components": [
+      "section"
+    ]
+  },
+  {
+    "id": "columns",
+    "components": []
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
+    ]
+  },
+  {
+    "id": "section",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title",
+      "hero",
+      "cards",
+      "columns",
+      "logo",
+      "teaser",
+      "ctaWithIcon",
+      "contact",
+      "link-grid",
+      "sign-in",
+      "icontitle",
+      "location",
+      "car-filter",
+      "location",
+      "icontitle",
+      "teaser-list",
+      "immersive-teaser",
+      "widget",
+      "hero-banner-carousel",
+      "nexa-world"
+    ]
+  },
+  {
+    "id": "cards",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "contact",
+    "components": [
+      "ctaWithIcon"
+    ]
+  },
+  {
+    "id": "sign-in",
+    "components": [
+      "ctaWithIcon"
+    ]
+  },
+  {
+    "id": "teaser-list",
+    "components": [
+      "teaser"
+    ]
+  },
+  {
+    "id": "immersive-teaser",
+    "components": [
+      "teaser"
+    ]
+  },
+  {
+    "id": "widget",
+    "components": [
+      "dynamicIconCTA"
+    ]
+  },
+  {
+    "id": "hero-banner-carousel",
+    "components": [
+      "hero-banner-carousel-item"
+    ]
+  },
+  {
+    "id": "nexa-world",
+    "components": [
+      "ctaWithIcon"
+    ]
+  }
+]
